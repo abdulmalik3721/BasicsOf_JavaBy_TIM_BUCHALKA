@@ -17,6 +17,7 @@ public class FirstClass {
         if((topScore>90) || (secondTopScore==60)){
             System.out.println("Either or both of the condition are true");
         }
+        System.out.println("ABDUL MALIK");
 
     }
 }
